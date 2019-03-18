@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression TestSuite" duration-ms="2273" started-at="2019-03-18T05:01:26Z" finished-at="2019-03-18T05:01:28Z">
+    <groups>
+    </groups>
+    <test name="Application code" duration-ms="2273" started-at="2019-03-18T05:01:26Z" finished-at="2019-03-18T05:01:28Z">
+      <class name="com.expedia.flightsbooking.JdbcDemoTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.expedia.flightsbooking.JdbcDemoTest@1d057a39]" name="beforeClass" is-config="true" duration-ms="32" started-at="2019-03-18T05:01:26Z" finished-at="2019-03-18T05:01:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.expedia.flightsbooking.JdbcDemoTest@1d057a39]" name="test1" duration-ms="2209" started-at="2019-03-18T05:01:26Z" finished-at="2019-03-18T05:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.flightsbooking.JdbcDemoTest@1d057a39]" name="tearDown" is-config="true" duration-ms="16" started-at="2019-03-18T05:01:28Z" finished-at="2019-03-18T05:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.expedia.flightsbooking.JdbcDemoTest -->
+    </test> <!-- Application code -->
+  </suite> <!-- Regression TestSuite -->
+</testng-results>
